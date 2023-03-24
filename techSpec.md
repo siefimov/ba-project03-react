@@ -3,9 +3,11 @@
 ## HOME PAGE
 
 **1. Header:**
-_• Logo or App Name
-_• Navigation menu to access different sections of the web app such as: - Home - Filter page
-\*• Search bar with a search button
+• **Logo or App Name
+• **Navigation menu to access different sections of the web app such as: 
+    - **Home
+    - **Filter page
+• **Search bar with a search button
 
 **2. Popular movies:**
 .._• Display a section that showcases popular movies.
