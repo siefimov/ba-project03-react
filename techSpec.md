@@ -82,43 +82,43 @@
 
 ## FOLDER STRUCTURE
 
-**src/**
+**src/**  
 **|-- assets/**  
-| |-- images/  
-| |-- styles/  
-| | |-- base/  
-| | |-- components/  
-| | |-- utilities/  
-**|-- components/**  
-| |-- atoms/  
-| | |-- Button/  
-| | |-- Icon/  
-| | |-- Input/  
-| | |-- ...  
-| |-- molecules/  
-| | |-- MovieCard/  
-| | |-- Filter/  
-| | |-- ...  
-| |-- organisms/  
-| | |-- Header/  
-| | |-- Footer/  
-| | |-- MovieGrid/  
-| | |-- ...  
-**|-- pages/**  
-| |-- HomePage/  
-| |-- MovieListPage/  
-| |-- FiltersPage/  
-| |-- SingleMoviePage/  
-| |-- index.js  
-**|-- store/**  
-| |-- actions/  
-| |-- reducers/  
-| |-- selectors/  
-| |-- types/  
-| |-- index.js  
-**|-- utils/**  
-| |-- api.js  
-| |-- helpers.js  
+|  |-- images/  
+|  |-- styles/  
+|  |  |-- base/  
+|  |  |-- components/  
+|  |  |-- utilities/  
+ **|-- components/**  
+|  |-- atoms/  
+|  |  |-- Button/  
+|  |  |-- Icon/  
+|  |  |-- Input/  
+|  |  |-- ...  
+|  |-- molecules/  
+|  |  |-- MovieCard/  
+|  |  |-- Filter/  
+|  |  |-- ...  
+|  |-- organisms/  
+|  |  |-- Header/  
+|  |  |-- Footer/  
+|  |  |-- MovieGrid/  
+|  |  |-- ...  
+ **|-- pages/**  
+|  |-- HomePage/  
+|  |-- MovieListPage/  
+|  |-- FiltersPage/  
+|  |-- SingleMoviePage/  
+|  |-- index.js  
+ **|-- store/**  
+|  |-- actions/  
+|  |-- reducers/  
+|  |-- selectors/  
+|  |-- types/  
+|  |-- index.js  
+ **|-- utils/**  
+|  |-- api.js  
+|  |-- helpers.js  
 |-- App.js  
 |-- index.js  
 |-- routes.js  
