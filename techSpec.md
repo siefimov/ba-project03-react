@@ -82,14 +82,14 @@
 
 ## FOLDER STRUCTURE
 
-**src/**  
-**|-- assets/**  
+**SRC/**  
+**|-- ASSETS/**  
 |  |-- images/  
 |  |-- styles/  
 |  |  |-- base/  
 |  |  |-- components/  
 |  |  |-- utilities/  
- **|-- components/**  
+ **|-- COMPONENTS/**  
 |  |-- atoms/  
 |  |  |-- Button/  
 |  |  |-- Icon/  
@@ -104,19 +104,19 @@
 |  |  |-- Footer/  
 |  |  |-- MovieGrid/  
 |  |  |-- ...  
- **|-- pages/**  
+ **|-- PAGES/**  
 |  |-- HomePage/  
 |  |-- MovieListPage/  
 |  |-- FiltersPage/  
 |  |-- SingleMoviePage/  
 |  |-- index.js  
- **|-- store/**  
+ **|-- STORE/**  
 |  |-- actions/  
 |  |-- reducers/  
 |  |-- selectors/  
 |  |-- types/  
 |  |-- index.js  
- **|-- utils/**  
+ **|-- UTILS/**  
 |  |-- api.js  
 |  |-- helpers.js  
 |-- App.js  
@@ -128,7 +128,7 @@
 
 ##
 
-react
-react hooks
-redux
+react  
+react hooks  
+redux  
 tailwind
